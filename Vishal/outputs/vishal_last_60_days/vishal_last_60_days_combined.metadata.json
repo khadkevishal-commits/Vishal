@@ -1,0 +1,417 @@
+{
+  "start_date": "2026-06-09",
+  "end_date": "2026-08-07",
+  "source_url": "https://nsearchives.nseindia.com/content/fo/",
+  "downloaded": [
+    {
+      "date": "2026-06-09",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260609_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-10",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260610_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260611_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260612_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260615_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-16",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260616_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260617_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260618_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-19",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260619_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260622_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260623_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-24",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260624_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260625_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260629_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-30",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260630_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260701_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-07-02",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260702_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-07-03",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260703_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260706_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-07-07",
+      "status": "cached",
+      "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\downloads\\BhavCopy_NSE_FO_0_0_0_20260707_F_0000.csv.zip"
+    }
+  ],
+  "extra_downloaded": {
+    "2026-06-09": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_09062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_09062026.csv"
+      }
+    },
+    "2026-06-10": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_10062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_10062026.csv"
+      }
+    },
+    "2026-06-11": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_11062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_11062026.csv"
+      }
+    },
+    "2026-06-12": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_12062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_12062026.csv"
+      }
+    },
+    "2026-06-15": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_15062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_15062026.csv"
+      }
+    },
+    "2026-06-16": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_16062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_16062026.csv"
+      }
+    },
+    "2026-06-17": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_17062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_17062026.csv"
+      }
+    },
+    "2026-06-18": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_18062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_18062026.csv"
+      }
+    },
+    "2026-06-19": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_19062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_19062026.csv"
+      }
+    },
+    "2026-06-22": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_22062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_22062026.csv"
+      }
+    },
+    "2026-06-23": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_23062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_23062026.csv"
+      }
+    },
+    "2026-06-24": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_24062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_24062026.csv"
+      }
+    },
+    "2026-06-25": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_25062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_25062026.csv"
+      }
+    },
+    "2026-06-29": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_29062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_29062026.csv"
+      }
+    },
+    "2026-06-30": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_30062026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_30062026.csv"
+      }
+    },
+    "2026-07-01": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_01072026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_01072026.csv"
+      }
+    },
+    "2026-07-02": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_02072026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_02072026.csv"
+      }
+    },
+    "2026-07-03": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_03072026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_03072026.csv"
+      }
+    },
+    "2026-07-06": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_06072026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_06072026.csv"
+      }
+    },
+    "2026-07-07": {
+      "delta": {
+        "file": "C:\\Users\\khadk\\OneDrive\\Documents\\Vishal\\data\\nse_fo_bhavcopy_last60\\extras\\Contract_Delta_07072026.csv",
+        "status": "cached",
+        "url": "https://nsearchives.nseindia.com/content/nsccl/Contract_Delta_07072026.csv"
+      }
+    }
+  },
+  "skipped": [
+    {
+      "date": "2026-06-13",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-14",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-20",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-21",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-26",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-06-27",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-28",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-07-04",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-07-05",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-07-08",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-09",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-10",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-11",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-07-12",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-07-13",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-14",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-15",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-16",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-17",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-18",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-07-19",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-07-20",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-21",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-22",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-23",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-24",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-25",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-07-26",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-07-27",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-28",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-29",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-30",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-07-31",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-08-01",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-08-02",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-08-03",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-08-04",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-08-05",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-08-06",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-08-07",
+      "reason": "missing:404"
+    }
+  ],
+  "row_count": 249171,
+  "source_notes": [
+    "Change in OI and volume are from the F&O-UDiFF Common Bhavcopy Final file.",
+    "Delta is from NSE F&O-NCL Contract Delta.",
+    "Rows where both Call OI and Put OI are zero or blank are excluded."
+  ]
+}

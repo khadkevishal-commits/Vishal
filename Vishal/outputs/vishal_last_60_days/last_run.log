@@ -1,0 +1,28 @@
+
+> C:\Users\khadk\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe C:\Users\khadk\OneDrive\Documents\Vishal\scripts\process_nse_fo_bhavcopy.py 2026-06-09 2026-08-07 C:\Users\khadk\OneDrive\Documents\Vishal\data\nse_fo_bhavcopy_last60 C:\Users\khadk\OneDrive\Documents\Vishal\outputs\vishal_last_60_days\vishal_last_60_days_combined.csv
+{
+  "rows": 249171,
+  "files": 20,
+  "skipped": 40
+}
+
+
+> C:\Users\khadk\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe C:\Users\khadk\OneDrive\Documents\Vishal\scripts\build_nse_fo_workbook.py C:\Users\khadk\OneDrive\Documents\Vishal\outputs\vishal_last_60_days\vishal_last_60_days_combined.csv C:\Users\khadk\OneDrive\Documents\Vishal\outputs\vishal_last_60_days\vishal_last_60_days_combined.metadata.json C:\Users\khadk\OneDrive\Documents\Vishal\outputs\vishal_last_60_days\vishal_last_60_days_combined.xlsx
+Traceback (most recent call last):
+  File "C:\Users\khadk\OneDrive\Documents\Vishal\scripts\build_nse_fo_workbook.py", line 370, in <module>
+    main()
+  File "C:\Users\khadk\OneDrive\Documents\Vishal\scripts\build_nse_fo_workbook.py", line 284, in main
+    near_money_rows = select_near_money_rows(input_csv)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\khadk\OneDrive\Documents\Vishal\scripts\build_nse_fo_workbook.py", line 152, in select_near_money_rows
+    trend_pct = (group_selected[0][2] - previous_price) / previous_price
+                 ~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+Exception ignored in atexit callback: <function _openpyxl_shutdown at 0x0000024E99DA45E0>
+Traceback (most recent call last):
+  File "C:\Users\khadk\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\openpyxl\worksheet\_writer.py", line 32, in _openpyxl_shutdown
+    os.remove(path)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\khadk\\AppData\\Local\\Temp\\openpyxl.3uvlsmhm'
+
+
+ERROR: Command failed with exit code 1. See C:\Users\khadk\OneDrive\Documents\Vishal\outputs\vishal_last_60_days\last_run.log

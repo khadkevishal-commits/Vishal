@@ -1,0 +1,166 @@
+{
+  "start_date": "2026-06-01",
+  "end_date": "2026-07-03",
+  "source_url": "https://nsearchives.nseindia.com/content/fo/",
+  "downloaded": [
+    {
+      "date": "2026-06-01",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260601_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-02",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260602_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-03",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260603_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-04",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260604_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-05",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260605_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260608_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-09",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260609_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-10",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260610_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-11",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260611_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260612_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260615_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-16",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260616_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-17",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260617_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-18",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260618_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-19",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260619_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260622_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-23",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260623_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-24",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260624_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-25",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260625_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260629_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-06-30",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260630_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-07-01",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260701_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-07-02",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260702_F_0000.csv.zip"
+    },
+    {
+      "date": "2026-07-03",
+      "status": "downloaded",
+      "file": "data\\nse_fo_bhavcopy\\downloads\\BhavCopy_NSE_FO_0_0_0_20260703_F_0000.csv.zip"
+    }
+  ],
+  "skipped": [
+    {
+      "date": "2026-06-06",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-07",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-13",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-14",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-20",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-21",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-26",
+      "reason": "missing:404"
+    },
+    {
+      "date": "2026-06-27",
+      "reason": "weekend"
+    },
+    {
+      "date": "2026-06-28",
+      "reason": "weekend"
+    }
+  ],
+  "row_count": 436375
+}
